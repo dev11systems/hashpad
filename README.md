@@ -91,7 +91,7 @@ It avoids accounts, servers, sync, and abstraction layers. The goal is a tool th
 
 ## License
 
-MIT (recommended)
+MIT
 
 ---
 
